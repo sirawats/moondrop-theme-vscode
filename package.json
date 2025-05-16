@@ -5,13 +5,14 @@
   "repository": "https://github.com/sirawats/moondrop-theme-vscode.git",
   "license": "MIT",
   "publisher": "sirawats",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.100.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "moondrop-icon.png",
   "scripts": {
     "build": "vsce package"
   },
