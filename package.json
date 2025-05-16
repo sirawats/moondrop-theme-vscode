@@ -1,0 +1,21 @@
+{
+  "name": "moondrop-theme-vscode",
+  "displayName": "moondrop-theme-vscode",
+  "description": "Moondrop theme for VS Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Moondrop Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Moondrop Theme-color-theme.json"
+      }
+    ]
+  }
+}
